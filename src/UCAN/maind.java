@@ -5,7 +5,7 @@
 /*    */ //import java.awt.KeyboardFocusManager;
 /*    */ //import javax.swing.UIManager;
 /*    */
-/*    */ public class main
+/*    */ public class maind
 /*    */ {
 /*    */   //private myFrame frmUcan;
 /*    */   //private KeyboardFocusManager KeyBoard_Manger;
